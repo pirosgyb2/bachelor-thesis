@@ -37,6 +37,7 @@ Stop scanning when the recognized texts are correct. Now you can click on the te
 * Each expense has a detailed view where you can modify them.
 
 ### Used third party libraries
+* Kotlin
 * ABBYY Real-Time Recognition SDK
 * WilliamChart
 * Room Persistence Library
