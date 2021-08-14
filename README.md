@@ -1,4 +1,4 @@
-## A receipt scanning and budget tracking application on Android platform
+## A receipt scanning and budget tracking Kotlin application on Android platform
 This project was my thesis for my Bachelor degree. I wrote it in Kotlin. I plan to upgrade it in the future.
 (The code is private, here I just share the details about the project.)
 
