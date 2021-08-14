@@ -1,6 +1,6 @@
-## A receipt scanning and budget tracking application on Android platform
-This project was my thesis for my Bachelor degree. I wrote it in Kotlin.
-(The code is private, here I just share the details about the project.)
+## A receipt scanning and budget tracking app for Android
+This project was my thesis for my Bachelor degree. I wrote it in **Kotlin**.
+The code is private, here I just share the details about the project.
 
 ### How it looks like?
 <p>
